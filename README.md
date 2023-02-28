@@ -1,2 +1,1 @@
-# firstrepo
-first repository 
+this thing i am adding in git hub
